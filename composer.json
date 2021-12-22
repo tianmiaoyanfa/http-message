@@ -3,7 +3,7 @@
     "description": "Tianmiao Http Message",
     "type": "library",
     "require": {
-        "tianmiao2/http": "^1.0",
+        "tianmiao2/http": "^1.1",
         "psr/http-message": "^1.0",
         "nyholm/psr7": "^1.1"
     },
